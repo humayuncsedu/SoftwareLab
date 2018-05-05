@@ -1,0 +1,2 @@
+Greedy approach suitable for chess game?.yes.sometimes.no.null
+is this algo practice part?.yes.no.maybe.null

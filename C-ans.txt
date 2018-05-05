@@ -1,0 +1,11 @@
+Dennis Ritchie
+A compiler
+1examveda
+main()
+real
+error
+0
+&
+float
+0
+yes

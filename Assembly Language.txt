@@ -1,0 +1,2 @@
+Practice part Assembly?.yes.no.maybe.null
+what is the input format?.input.scan.scanfff.no b

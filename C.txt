@@ -1,0 +1,11 @@
+Who is father of C Language?.Bjarne Stroustrup.James Gosling.Dennis Ritchie.Codd
+C programs are converted into machine language with the help of-.An Editor.A compiler.An operating system.None of these
+Which one of the following is not a valid identifier?._examveda.1examveda.exam_veda.examveda1
+Which is the only function all C programs must contain?.system().start().main().printf()
+Which of the following is not a correct variable type?.float.double.real.char
+Find the output of the following program- void main() { int i=01289; printf("%d", i); }.1289.01289.error.713
+If ASCII value of 'x' is 120, then what is the value of the H, if H = ('x' - 'w' ) / 3;.1.-1.0.2
+Which of the following is not logical operator?.&.&&.||.!
+Which of the following cannot be checked in a switch-case statement?.integer.short.float.char
+If the two strings are identical, then strcmp() function returns-.-1.0.1.yes
+is this program dynamic?.yes.no.maybe.null

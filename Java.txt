@@ -1,0 +1,7 @@
+Which of these keywords is used to make a class?.class.struct.instanceOf.public class
+What is stored in the object obj in following lines of code? box obj;.memory address of obj.null.garbage.arbitrary pointer.
+Which of these operators is used to allocate memory for an object?.malloc.new.calloc.give alloc
+When does Exceptions in Java arises in code sequence?.Run Time.Compilation Time.Anytime.None
+Which of these keywords is not a part of exception handling?.try.throw.thrown.finally
+Which of these keywords is used to manually throw an exception?.try.throw.catch.auto throw
+Which of these keywords is used to refer to member of immediate super class from a sub class?.super.upper.this.parent
